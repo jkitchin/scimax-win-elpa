@@ -1,0 +1,3 @@
+#+TITLE: ELPA files for scimax on Windows
+
+It is difficult to setup scimax on Windows from scratch. This set of elpa packages helps the initial setup.
